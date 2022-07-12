@@ -3,8 +3,8 @@
     "unit_selenium": {
       "commandName": "Project",
       "environmentVariables": {
-        "EMAIL": "kinhhghe153111@fpt.edu.vn",
-        "PASSWORD": "hagiakinh0823",
+        "EMAIL": "abc@fpt.edu.vn",
+        "PASSWORD": "abc",
         "CHORME_URL": "D:\\FPT UNIVERSITY\\STUDY\\KY_5\\PRN211\\GUI\\unit_selenium\\unit_selenium"
       }
     }
