@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\giaki\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\giaki\\.nuget\\packages"
-    ]
-  }
-}
